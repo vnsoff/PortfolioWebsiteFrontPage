@@ -5,5 +5,7 @@
 }
 
 .header {
-    position: center;
+    background-image: "images/front_animation_1.png" alt="front_page";
+    position: relative;
+
 }
